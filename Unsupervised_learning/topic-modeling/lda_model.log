@@ -1,0 +1,24 @@
+2019-02-26 17:09:30,683 : INFO : collecting all words and their counts
+2019-02-26 17:09:30,683 : INFO : PROGRESS: at sentence #0, processed 0 words and 0 word types
+2019-02-26 17:09:31,907 : INFO : collected 310570 word types from a corpus of 599020 words (unigram + bigrams) and 3416 sentences
+2019-02-26 17:09:31,907 : INFO : using 310570 counts as vocab in Phrases<0 vocab, min_count=20, threshold=10.0, max_vocab_size=40000000>
+2019-02-26 17:09:31,927 : INFO : collecting all words and their counts
+2019-02-26 17:09:31,928 : INFO : PROGRESS: at sentence #0, processed 0 words and 0 word types
+2019-02-26 17:09:35,778 : INFO : collected 319026 word types from a corpus of 580273 words (unigram + bigrams) and 3416 sentences
+2019-02-26 17:09:35,778 : INFO : using 319026 counts as vocab in Phrases<0 vocab, min_count=10, threshold=10.0, max_vocab_size=40000000>
+2019-02-26 17:09:35,778 : INFO : source_vocab length 310570
+2019-02-26 17:09:39,080 : INFO : Phraser built with 269 269 phrasegrams
+2019-02-26 17:09:39,080 : INFO : source_vocab length 319026
+2019-02-26 17:09:42,946 : INFO : Phraser built with 1142 1142 phrasegrams
+2019-02-26 17:25:39,168 : INFO : collecting all words and their counts
+2019-02-26 17:25:39,169 : INFO : PROGRESS: at sentence #0, processed 0 words and 0 word types
+2019-02-26 17:25:40,456 : INFO : collected 310570 word types from a corpus of 599020 words (unigram + bigrams) and 3416 sentences
+2019-02-26 17:25:40,457 : INFO : using 310570 counts as vocab in Phrases<0 vocab, min_count=20, threshold=10.0, max_vocab_size=40000000>
+2019-02-26 17:25:40,458 : INFO : collecting all words and their counts
+2019-02-26 17:25:40,458 : INFO : PROGRESS: at sentence #0, processed 0 words and 0 word types
+2019-02-26 17:25:44,321 : INFO : collected 319026 word types from a corpus of 580273 words (unigram + bigrams) and 3416 sentences
+2019-02-26 17:25:44,321 : INFO : using 319026 counts as vocab in Phrases<0 vocab, min_count=10, threshold=10.0, max_vocab_size=40000000>
+2019-02-26 17:25:44,321 : INFO : source_vocab length 310570
+2019-02-26 17:25:47,547 : INFO : Phraser built with 269 269 phrasegrams
+2019-02-26 17:25:47,547 : INFO : source_vocab length 319026
+2019-02-26 17:25:51,501 : INFO : Phraser built with 1142 1142 phrasegrams
